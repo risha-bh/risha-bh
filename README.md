@@ -1,5 +1,6 @@
+![alt text](https://github.com/risha-bh/Resume/blob/main/coverphoto.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Rishabh Srivastava</h1>
-<h3 align="center">I am a backend developer from India. FRONTEND>>><<<BACKEND</h3>
+<h3 align="center">I am a Software Engineer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=risha-bh&label=Profile%20views&color=0e75b6&style=flat" alt="risha-bh" /> </p>
 
